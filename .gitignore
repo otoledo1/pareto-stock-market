@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Step 01 output. Depends on when Yahoo Finance is queried, so it is regenerated locally rather than committed.
+
+data/raw/prices_refetched.csv
+output/tables/refetch_comparison.csv
