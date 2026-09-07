@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22608157.svg)](https://doi.org/10.5281/zenodo.22608157)
+
 # The Pareto Principle Applied to the Stock Market
 
 Replication code and data for *The Pareto Principle Applied to the Stock Market:
