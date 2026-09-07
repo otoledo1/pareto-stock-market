@@ -1,0 +1,6 @@
+specification,n,alpha,beta,se_conventional,se_hc3,t_conventional,t_hc3,p_hc3,r_squared
+Full sample (incl. MU),100,-71.7107,4.3871,0.491,1.5625,8.9342,2.8078,0.006,0.4489
+Excluding MU,99,-32.4679,2.9471,0.2639,0.6935,11.1664,4.2499,0.0,0.5624
+Leave-top-10-out volatility,99,-29.4936,3.2943,0.3317,0.7887,9.9306,4.177,0.0001,0.5041
+Excluding MU and GOOG,98,-33.064,2.9539,0.2626,0.6936,11.2475,4.2591,0.0,0.5686
+Excluding MU and GOOGL,98,-33.0128,2.9518,0.2624,0.6938,11.2484,4.2548,0.0,0.5686

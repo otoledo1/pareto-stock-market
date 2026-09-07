@@ -1,0 +1,4 @@
+quantity,actual,median,lower_95,upper_95,pct_99_9,actual_percentile
+distinct_dates,206.0,245.0,240.0,248.0,249.0,0.0
+max_stocks_sharing_a_date,45.0,10.0,9.0,13.0,15.0,100.0
+shared_slot_percent,95.758,98.182,97.475,98.889,99.293,0.0

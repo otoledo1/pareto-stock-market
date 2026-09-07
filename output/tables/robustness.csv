@@ -1,0 +1,5 @@
+estimator,beta,r_squared
+"OLS, excl. MU",2.9471,0.5624
+"OLS, excl. MU and AMD",2.3998,0.5362
+"Robust (Huber), excl. MU",2.0891,
+"Robust (Tukey biweight), excl. MU",1.5269,
