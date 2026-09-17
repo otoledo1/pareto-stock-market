@@ -3,4 +3,4 @@ median_gap,drift-calibrated,42.9247,45.1319,41.6818,48.9722,11.15
 r_squared,drift-calibrated,0.5624,0.4772,0.2773,0.6373,84.75
 flip_rate,drift-calibrated,74.7475,55.5556,46.4646,64.6465,100.0
 leaveout_r_squared,drift-calibrated,0.5041,0.4769,0.2745,0.6392,62.65
-flip_rate,return-conditioned,74.7475,72.7273,70.7071,75.7576,84.5
+median_buy_hold,drift-calibrated,28.1036,41.069,32.5134,50.6158,0.0

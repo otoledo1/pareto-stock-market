@@ -1,0 +1,17 @@
+quantity,scale,regressor,actual,median,lower_95,upper_95,actual_percentile,published
+median_gap,simple,fixed,42.9247,39.7067,38.3471,41.2777,100.0,True
+r_squared,simple,fixed,0.5624,0.589,0.5728,0.6047,0.05,True
+leaveout_r_squared,simple,fixed,0.5041,0.5879,0.5576,0.6159,0.0,True
+flip_rate,simple,fixed,74.7475,72.7273,70.7071,75.7576,82.65,True
+median_gap,simple,recomputed,42.9247,39.7067,38.3471,41.2777,100.0,False
+r_squared,simple,recomputed,0.5624,0.5936,0.5791,0.6075,0.0,False
+leaveout_r_squared,simple,recomputed,0.5041,0.5879,0.5576,0.6159,0.0,False
+flip_rate,simple,recomputed,74.7475,72.7273,70.7071,75.7576,82.65,False
+median_gap,log,fixed,42.9247,39.7366,38.37,41.3386,100.0,False
+r_squared,log,fixed,0.5624,0.5949,0.5787,0.6107,0.0,False
+leaveout_r_squared,log,fixed,0.5041,0.5687,0.538,0.5966,0.0,False
+flip_rate,log,fixed,74.7475,72.7273,70.7071,75.7576,84.45,False
+median_gap,log,recomputed,42.9247,39.7366,38.37,41.3386,100.0,False
+r_squared,log,recomputed,0.5624,0.5742,0.5596,0.5881,5.65,False
+leaveout_r_squared,log,recomputed,0.5041,0.5687,0.538,0.5966,0.0,False
+flip_rate,log,recomputed,74.7475,72.7273,70.7071,75.7576,84.45,False
