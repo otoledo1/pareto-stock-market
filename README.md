@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22806279.svg)](https://doi.org/10.5281/zenodo.22806279)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22608156.svg)](https://doi.org/10.5281/zenodo.22608156)
 
 # The Pareto Principle Applied to the Stock Market
 
